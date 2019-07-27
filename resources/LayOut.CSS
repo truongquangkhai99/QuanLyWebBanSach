@@ -1,0 +1,21 @@
+.background{
+	-fx-background-color: #ffb4a3;
+	
+}
+
+.title{
+	-fx-font: bold 30.0pt "Times New Roman";
+	/*-fx-text-fill: #00ff9d;*/
+	-fx-text-fill: linear-gradient(to top left, #ff0000 0.0%, #660033 100.0%);
+}
+
+.button{
+   -fx-text-fill: linear-gradient(to top left, #ff0000 0.0%, #660033 100.0%);
+   -fx-font: bold 30.0pt "Times New Roman";
+   -fx-background-color: linear-gradient(to top left, #ff9966 0%, #ffffcc 100%);
+   -fx-border-radius:5.0;
+   -fx-color: white;
+   -fx-padding: 10.0px 15.0px;
+ 	-fx-padding: 5.0;
+   -fx-font-size: 15.0px;
+}
